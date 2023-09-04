@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bry5dCd3T2REIqRSGkFHg8iFihKMiIGxoO4bhOTWS6ikupiLom3jzWkxMyGjy/WgN+tAvIJKmRY9u4yJc4p7mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\WebCamCaptureApp\\WebCamCaptureApp\\WebCamCaptureApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
